@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+}
+
+header{
+    height: 10vh;
+    background-color: #FFFF00;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 150vh;
+    background-color: #FFFACD;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 30px;
+    font-size: 40px;  
+}
+section{
+    width: 45vw;
+    height: 180vh;
+}
+figure{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+img{
+    width: 35vw;
+}
+ul li{
+    font-size: 20px;
+}
+ol li{
+    font-size: 20px;
+}
+
+.modoPreparo{
+    padding-top: 1.5vh;
+}
